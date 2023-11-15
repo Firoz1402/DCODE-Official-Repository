@@ -29,9 +29,9 @@ Meet the visionary leaders guiding DCODE:
 
 - **Founder:** Forheen Ahmed - [GitHub](https://github.com/Forheen), [LinkedIn](https://www.linkedin.com/in/forheen-ahmed-a994b9201/)
 - **In-Charge:** Professor Mr. Biswajit Sarma - [Contact Information](https://jecassam.ac.in/wp-content/uploads/2022/11/bs.pdf)
-- **[Firoz Anjum Chowdhury]** - [GitHub](https://github.com/Firoz1402), [LinkedIn](https://www.linkedin.com/in/firoz-anjum-chowdhury-2a8574299/)
-- **[Core Member Name]** - [GitHub](#), [LinkedIn](#)
-- **[Core Member Name]** - [GitHub](#), [LinkedIn](#)
+- **Firoz Anjum Chowdhury** - [GitHub](https://github.com/Firoz1402), [LinkedIn](https://www.linkedin.com/in/firoz-anjum-chowdhury-2a8574299/)
+- **Gouranga Borah** - [GitHub](https://github.com/b-Gouranga), [LinkedIn](https://www.linkedin.com/in/gouranga-borah-87b080249/)
+- **Keshab Sen** - [GitHub](https://github.com/Keshab002), [LinkedIn](https://www.linkedin.com/in/keshab-sen-a82b90251/)
 
 Feel free to connect with us and explore our individual contributions.
 
