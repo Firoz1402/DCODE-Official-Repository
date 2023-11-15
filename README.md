@@ -27,9 +27,9 @@ Successfully conducted 2 workshops on Data Structures and Algorithms (DSA) to da
 
 Meet the visionary leaders guiding DCODE:
 
-- **Founder:** Forheen Ahmed - [GitHub](https://github.com/forheen), [LinkedIn](#)
-- **In-Charge:** Professor Mr. Biswajit Sarma - [LinkedIn](#)
-- **[Core Member Name]** - [GitHub](#), [LinkedIn](#)
+- **Founder:** Forheen Ahmed - [GitHub](https://github.com/Forheen), [LinkedIn](https://www.linkedin.com/in/forheen-ahmed-a994b9201/)
+- **In-Charge:** Professor Mr. Biswajit Sarma - [Contact Information](https://jecassam.ac.in/wp-content/uploads/2022/11/bs.pdf)
+- **[Firoz Anjum Chowdhury]** - [GitHub](https://github.com/Firoz1402), [LinkedIn](https://www.linkedin.com/in/firoz-anjum-chowdhury-2a8574299/)
 - **[Core Member Name]** - [GitHub](#), [LinkedIn](#)
 - **[Core Member Name]** - [GitHub](#), [LinkedIn](#)
 
