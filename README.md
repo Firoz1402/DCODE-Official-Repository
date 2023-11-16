@@ -4,7 +4,7 @@
 
 # Welcome to DCODE Official Repository! 🚀
 
-Explore the coding wonders with DCODE, the coding club at **Jorhat Engineering College(JEC)**, Assam, India.[Official Site](https://jecassam.ac.in/)
+Explore the coding wonders with DCODE, the coding club at **Jorhat Engineering College(JEC)**[Official Site](https://jecassam.ac.in/), Assam, India.
 
 ## About DCODE
 

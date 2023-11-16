@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="../src/java_logo.png" alt="java Logo" width="200"/>
+</p>
 # Welcome to DCODE Java Playground 🚀
 
 Dive into the world of Java with DCODE, where coding is an art, problem-solving is a passion, and community is everything! 🌟
