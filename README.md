@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="logo.png" alt="DCODE Logo" width="200"/>
+  <img src="src/logo.png" alt="DCODE Logo" width="200"/>
 </p>
 
 # Welcome to DCODE Official Repository! 🚀
 
-Explore the coding wonders with DCODE, the coding club at Jorhat Engineering College, Assam, India.
+Explore the coding wonders with DCODE, the coding club at **Jorhat Engineering College(JEC)**, Assam, India.[Official Site](https://jecassam.ac.in/)
 
 ## About DCODE
 
@@ -17,7 +17,7 @@ The club is dedicated to promoting a vibrant coding culture and focuses on the f
 - Competitive Programming
 - Data Structures and Algorithms
 - Off-Campus Placement Preparation
-- Development in areas such as Machine Learning, Frontend, Backend, DevOps, and App Development.
+- Development in areas such as Machine Learning, Web Development, DevOps, MLOps and App Development.
 
 ### 🏆 Achievements
 
